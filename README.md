@@ -12,4 +12,4 @@
 
 
 ## Future gist plans 
- - how to conduct a symposium - StellaMarys CSE edition 🥲
+ - how to conduct a symposium - StellaMarys CSE edition 🥲 - cries in pain 
