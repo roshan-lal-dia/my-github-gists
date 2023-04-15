@@ -12,3 +12,4 @@
 
 
 ## Future gist plans 
+ - how to conduct a symposium 
