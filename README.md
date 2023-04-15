@@ -12,4 +12,4 @@
 
 
 ## Future gist plans 
- - how to conduct a symposium 
+ - how to conduct a symposium - StellaMarys CSE edition 
