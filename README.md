@@ -13,4 +13,4 @@
 
 ## Future gist plans 
  - how to conduct a symposium - StellaMarys CSE edition 🥲 - cries in pain 
- - My Boookoscope - my thoughts
+ - My Boookoscope - my thoughts, best lines from readed books
