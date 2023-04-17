@@ -12,5 +12,5 @@
 
 
 ## Future gist plans 
- - how to conduct a symposium - StellaMarys CSE edition 🥲 - cries in pain ? smile in pain edition
+ - how to conduct a symposium - StellaMarys CSE edition 🥲 smile in pain edition
  - My Boookoscope - my thoughts, best lines from readed books and the books secrets
