@@ -14,4 +14,4 @@
 ## Future gist plans 
  - how to conduct a symposium - StellaMarys CSE edition 🥲 smile in pain edition
  - My Boookscope - my thoughts, best lines readed from books and the books secrets
-- Create a coding contest 
+- Create a coding contest - Hackerrank version 
