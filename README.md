@@ -12,7 +12,7 @@
 
 
 ## Future gist plans 
- - how to conduct a symposium - StellaMarys CSE edition 🥲 smile in pain edition
+ - how to conduct a Technical symposium - StellaMarys CSE edition 🥲 smile in pain edition
  - My Boookscope - my thoughts, best lines readed from books and the books secrets
 - Create a Hackerrank challenge 
 - create a hackerrank contest 
