@@ -12,8 +12,9 @@
 
 
 ## Future gist plans 
+ - Obsidian Sync
  - how to conduct a Technical Symposium - Stella Marys CSE edition 🥲 smile in pain edition
  - My Boookscope - my thoughts, best lines readed from books and the books secrets
 - Create a Hackerrank challenge 
 - create a hackerrank contest 
-- Obsidian Sync
+
