@@ -17,5 +17,6 @@
  - My Boookscope - my thoughts, best lines readed from books and the books secrets
 - Create a Hackerrank challenge 
 - create a hackerrank contest 
+- How to pass in Anna University exams
 - How to build a web3 application
 
