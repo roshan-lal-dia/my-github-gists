@@ -20,3 +20,6 @@
 - How to pass in Anna University semester exams
 - How to build a web3 application
 
+## New Gist Ideas
+- Help with eyes
+
