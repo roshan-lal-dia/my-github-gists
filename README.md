@@ -22,4 +22,4 @@
 
 ## New Gist Ideas
 - Help with eyes
-- ObS setup- start first stream
+- OBS setup- start first stream
