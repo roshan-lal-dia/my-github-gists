@@ -23,3 +23,5 @@
 ## New Gist Ideas
 - Help with eyes
 - OBS setup- start first stream
+- Windows tricks using registry or pwsh
+1. reset screenshot counter
